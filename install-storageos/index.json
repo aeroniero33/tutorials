@@ -23,7 +23,7 @@
           "text": "030-install-storageos-cli.md"
         },
         {
-          "title": "Use StorageClasses",
+          "title": "Create pod with a PVC",
           "text": "040-persistent-volume-claim.md"
         },
         {
