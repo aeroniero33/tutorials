@@ -4,7 +4,7 @@
     "icon": "fa-storageos",
     "time": "10 minutes",
     "difficulty": "Beginner",
-    "description": "Learn how to run MySQL with StorageOS volumes in Kubernetes for high availability",
+    "description": "Learn how to run MySQL with StorageOS volumes in K8s for high availability",
     "details": {
         "intro": {
             "text": "000-introduction.md",
